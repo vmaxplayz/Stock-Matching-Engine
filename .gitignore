@@ -1,0 +1,10 @@
+# Build outputs
+matching-engine
+matching-engine.exe
+
+# Runtime snapshots
+data/snapshot-*/
+data/CURRENT
+
+# macOS metadata
+.DS_Store
